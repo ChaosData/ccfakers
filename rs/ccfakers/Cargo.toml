@@ -1,0 +1,8 @@
+[package]
+name = "ccfakers"
+version = "0.1.0"
+authors = ["Jeffrey Dileo <jtdileo@gmail.com>"]
+
+[lib]
+name = "ccfakers"
+crate-type = ["dylib"]
